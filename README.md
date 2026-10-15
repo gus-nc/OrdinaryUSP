@@ -9,7 +9,7 @@ The initial idea was for it to be a resource for the incoming Econet 2027.
 ## Files
 
 - `index.html`: the page
-- `images/`: the photos
+- `images/`: the pictures (cropped and downscaled)
 
 ## Acknowledgements
 
